@@ -48,7 +48,7 @@
 </head>
 <body>
     <div class="sidebar">
-        <h4>Aplikasi Kelas</h4>
+        <h4>Menu</h4>
         <a href="{{ route('dashboard') }}"><i class="fas fa-tachometer-alt"></i> Dashboard</a>
         <a href="{{ route('kelas.index') }}"><i class="fas fa-chalkboard-teacher"></i> Kelas</a>
         <a href="{{ route('guru.index') }}"><i class="fas fa-user-tie"></i> Guru</a>
